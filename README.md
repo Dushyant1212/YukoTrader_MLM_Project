@@ -1,1 +1,3 @@
 # YukoTrader_MLM_Project
+
+Developed the Yukotrader MLM investment platform (yukotrader.com) as part of a two-person team, focusing on both frontend and partial backend tasks using PHP and Laravel. The project involved customizing features to meet client specifications, including implementing multi-level marketing functionalities, user management, and investment tracking. Utilized ChatGPT for efficient code editing and problem-solving throughout the development process. The platform is designed to handle investment transactions securely and efficiently, integrating advanced features such as OTP verification and user authentication. The project is currently live and operational, delivering a seamless user experience and robust performance.
